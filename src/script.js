@@ -32,4 +32,3 @@ function handleSignUp(e){
     console.log('Sign Up Attempt:', { name, email, password });
     signupForm.reset();
 }
-afasfczxczx
